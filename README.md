@@ -8,7 +8,7 @@ Docker is an open-source platform used to automate the deployment, scaling, and 
    The core of Docker, responsible for building, running, and managing containers. It includes both the Docker Daemon and the Docker CLI (Command-Line Interface).
 
 2. **Docker Images**  
-   A Docker image is a lightweight, stand-alone, and executable software package that includes everything needed to run a piece of software: code, runtime, libraries, environment variables, and configuration files.
+   A Docker image is a lightweight, stand-alone, and executable software package that includes everything needed to run a piece of software: code, runtime, libraries, environment variables, and configuration files. 
 
 3. **Docker Containers**  
    A container is a runtime instance of a Docker image. Containers provide an isolated environment in which applications can run, ensuring consistency across different environments.
